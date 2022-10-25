@@ -1,1 +1,1 @@
-# calcGeom-trica
+# Calculadora Geométrica
